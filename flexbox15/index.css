@@ -1,0 +1,300 @@
+.hop {
+    display: flex;
+    justify-content: space-around;
+}
+.poh {
+    display: flex;
+    gap: 30px;
+}
+
+.ogf {
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+
+.gop {
+    height: 40px;
+    width: 150px;
+}
+
+.gop:hover {
+    background-color: darkmagenta;
+    color: darkmagenta;
+}
+
+.gop:hover {
+    background-color: red;
+    color: deepskyblue;
+}
+
+.yop {
+    display: flex;
+    justify-content: end;
+
+}
+
+.nio {
+    background-color: #1b1b1b;
+    color: white;
+}
+
+.dip {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.bno {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 5%;
+}
+
+.cfi {
+    width: 20%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3%;
+    margin-top: 5%;
+
+}
+
+.pop {
+    display: flex;
+    margin-top: 10%;
+    text-align: center;
+    justify-content: center;
+}
+
+.ydo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 5%;
+}
+
+.psp {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.coc {
+    display: flex;
+    width: 20%;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.sxy {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.sp {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.one {
+    display: flex;
+    width: 20%;
+    align-items: center;
+    margin-left: 5%;
+    border-radius: 20%;
+}
+
+.vip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 5%;
+}
+
+.top {
+    display: flex;
+    margin-top: 5%;
+    text-align: center;
+    justify-content: center;
+}
+
+.pogo {
+    margin-left: 3%;
+    font-size: 20px;
+}
+
+.forw {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 3%;
+}
+
+.sdf {
+    display: flex;
+}
+
+.bov {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.vivo {
+    background-color: #651a7e;
+    color: white;
+}
+
+.ajk {
+    text-align: center;
+}
+
+.jr {
+    text-align: center;
+}
+
+.ddo {
+    width: 5%;
+    height: 50px;
+}
+
+.ddo:hover {
+    background-color: #fc0a7e;
+    color: white;
+}
+
+.up {
+    width: 5%;
+    height: 50px;
+}
+
+.gj {
+    background-color: black;
+    color: white;
+}
+
+.mp {
+    text-align: center;
+    font-size: 20px;
+}
+
+.goi {
+    text-align: center;
+}
+
+.aj {
+    width: 10%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.ja {
+    width: 7%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.ja:hover {
+    background-color: #fc0a7e;
+    color: white;
+}
+
+.vk {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.rop {
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+
+}
+
+.ago {
+    font-size: 20px;
+    margin-top: 5%;
+    align-items: center;
+}
+
+@media screen and (max-width: 1058px) {
+    .pop {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .bno {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ydo {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .sxy {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .sp {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .vip {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .top {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .forw {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .bov {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .nio {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .jr {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mp {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .vivo {
+        flex-direction: column;
+        align-items: center;
+    }
+    .rop{
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
